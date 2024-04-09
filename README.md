@@ -1,7 +1,7 @@
 ## Crawl, phân tích và dự báo Vietlott
 
 
-Crawl_Vietlott là một ứng dụng lấy kết quả sổ xố Vietlott Max 3D. Ứng dụng này sẽ tự động thu thập kết quả từ trang Vietlott, lưu trữ và hiển thị chúng dưới dạng danh sách kết quả theo phiên và theo tháng.
+Project là một ứng dụng lấy kết quả sổ xố Vietlott. Ứng dụng này sẽ tự động thu thập kết quả từ trang Vietlott, lưu trữ và hiển thị chúng dưới dạng danh sách kết quả theo kỳ quay và theo ngày.
 
 ## Tính năng
 - **Thu thập dữ liệu**: Tự động lấy kết quả xổ số Power 6/55, Mega 6/45 và các dữ liệu khác từ trang web [Vietlott.vn](https://https://vietlott.vn/)
