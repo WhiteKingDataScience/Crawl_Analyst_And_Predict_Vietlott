@@ -12,7 +12,7 @@ Project là một ứng dụng lấy kết quả sổ xố Vietlott. Ứng dụn
 
 1. Clone dự án từ GitHub:
 ```
-git clone https://github.com/WhiteKingDataScience/Crawl_Vietlott.git
+git clone https://github.com/WhiteKingDataScience/Crawl_Analyst_And_Predict_Vietlott.git
 ```
 
 2. Cài đặt các thư viện cần thiết:
