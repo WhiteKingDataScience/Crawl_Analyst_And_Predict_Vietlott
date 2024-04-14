@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 ## Kết quả
 
-
+[Phân tích kết quả](https://github.com/WhiteKingDataScience/Crawl_Analyst_And_Predict_Vietlott/blob/main/python_code/Vizualization_Vietlott_Power.ipynb)
 
 ## Đóng góp
 Chúng tôi rất hoan nghênh mọi đóng góp từ cộng đồng. Hãy tạo pull request nếu bạn muốn cải thiện project hoặc báo cáo lỗi.
