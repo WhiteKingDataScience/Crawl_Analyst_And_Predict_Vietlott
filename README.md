@@ -5,7 +5,7 @@ Project là một ứng dụng lấy kết quả sổ xố Vietlott. Ứng dụn
 
 ## Tính năng
 - **Thu thập dữ liệu**: Tự động lấy kết quả xổ số Power 6/55, Mega 6/45 và các dữ liệu khác từ trang web [Vietlott.vn](https://https://vietlott.vn/)
-- **Lưu trữ thông tin**: Kết quả crawn sẽ được lưu trữ trong cơ sở dữ liệu SQL hoặc file excel để dễ dàng truy cập và sửa dụng.
+- **Lưu trữ thông tin**: Kết quả crawl sẽ được lưu trữ trong cơ sở dữ liệu SQL hoặc file excel để dễ dàng truy cập và sửa dụng.
 - **Thống kê và dự báo**: Project sẽ hiển thị thống kê về lịch sử các con số, giá trị giải thưởng đồng thời các đưa ra dự báo bằng thuật toán LSTM.
 
 ## Cài đặt
